@@ -10,7 +10,8 @@ Welcome to helloWorld's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   autodoc
+   preface
+   introduction
 
 
 Indices and tables
